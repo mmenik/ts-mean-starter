@@ -1,0 +1,19 @@
+{
+    "header": {
+        "title": "Application Title"
+    },
+    "login": {
+        "title": "Login",
+        "caption": "Please login to continue",
+        "username": {
+            "placeholder": "Username *",
+            "hint": "Please enter a valid username",
+            "error": "Invalid or missing username"
+        },
+        "password": {
+            "placeholder": "Password *",
+            "hint": "Please enter your password",
+            "error": "Missing password"
+        }
+    }
+}

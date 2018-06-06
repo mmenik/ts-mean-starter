@@ -1,0 +1,10 @@
+{
+  "extends": "../../tsconfig.server.json",
+  "compilerOptions": {
+    "types": []
+  },
+  "exclude": [
+    "**/*.spec.ts",
+    "src/seed.ts"
+  ]
+}

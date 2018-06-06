@@ -1,0 +1,12 @@
+{
+    "apps": [
+        {
+            "name": "mean-nest-starter",
+            "script": "./dist/main.js",
+            "watch": true,
+            "env": {
+                "NODE_ENV": "production"
+            }
+        }
+    ]
+}

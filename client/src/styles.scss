@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+
+// @import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+@import '~@angular/material/prebuilt-themes/indigo-pink.css';
+// @import '~@angular/material/prebuilt-themes/pink-bluegrey.css';
+// @import '~@angular/material/prebuilt-themes/purple-green.css';
+$fa-font-path: "~font-awesome/fonts";
+@import "~font-awesome/scss/font-awesome";
+@import "./fonts/material-icons/material-icons.css";
+@import "./fonts/roboto/index.css";
+* {
+    box-sizing: border-box;
+}
+
+html {
+    -webkit-font-smoothing: antialiased;
+    -ms-overflow-style: none;
+    overflow: auto;
+}
+
+html,
+body {
+    font-family: 'Roboto', sans-serif;
+    height: 100%;
+}
+
+body {
+    margin: 0;
+}

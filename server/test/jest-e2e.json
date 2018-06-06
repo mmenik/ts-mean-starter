@@ -1,0 +1,17 @@
+{
+  "globals": {
+    "ts-jest": {
+      "tsConfigFile": "tsconfig.e2e.json"
+    }
+  },
+  "moduleFileExtensions": [
+    "js",
+    "json",
+    "ts"
+  ],
+  "rootDir": ".",
+  "testRegex": ".e2e-spec.ts$",
+  "transform": {
+    "^.+\\.(t|j)s$": "ts-jest"
+  }
+}

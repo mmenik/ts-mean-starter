@@ -1,0 +1,19 @@
+{
+    "header": {
+        "title": "Titolo Applicazione"
+    },
+    "login": {
+        "title": "Login",
+        "caption": "Autenticarsi per continuare",
+        "username": {
+            "placeholder": "Username *",
+            "hint": "Inserire una username valida",
+            "error": "Username non valida"
+        },
+        "password": {
+            "placeholder": "Password *",
+            "hint": "Inserire la password",
+            "error": "Password obbligatoria"
+        }
+    }
+}
